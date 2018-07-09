@@ -7,6 +7,8 @@
 **v0.1** `released`
 <br>
 免代码自动化从数据源抽取数据到Excel的过程，目前支持SQLSERVER和Oracle，后续会支持更多的数据源。
+<br>
+/xlsIntegrator/released/xlsIntegrator 0.1.zip
 
 **v0.2**
 <br>
