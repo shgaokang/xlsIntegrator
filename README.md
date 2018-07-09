@@ -10,6 +10,12 @@
 <br>
 /xlsIntegrator/released/xlsIntegrator 0.1.zip
 
+**v0.11** `released`
+<br>
+写入log文件
+<br>
+/xlsIntegrator/xlsIntegrator 0.11.zip
+
 **v0.2**
 <br>
 多线程
